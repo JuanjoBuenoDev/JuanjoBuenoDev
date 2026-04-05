@@ -23,22 +23,28 @@
 ```java
 public class JuanjoBueno extends Developer {
 
-    private final String nombre    = "Juan José Bueno Antúnez";
-    private final String ubicacion = "Granada, España 🇪🇸";
-    private final String rol       = "Desarrollador de Software Multiplataforma";
-    private final String formacion = "Grado Superior DAM · I.E.S. Zaidín Vergeles";
+    String name     = "Juan Jose Bueno Antunez";
+    String location = "Granada, Spain";
+    String role     = "Multiplatform Software Developer";
+    String degree   = "Higher Degree in DAM - IES Zaidin Vergeles";
 
-    private final String[] intereses = {
-        "Backend con Java & Spring Boot",
-        "Apps multiplataforma (Flutter, React Native)",
-        "Virtualización & entornos Citrix",
-        "DevOps: Docker & contenedores",
-        "Fotografía y diseño creativo 📷"
+    String[] stack = {
+        "Java", "Spring Boot", "Kotlin",
+        "Flutter", "React Native", "Svelte",
+        "Docker", "REST API", "WebSocket",
+        "Salesforce", "MySQL", "MongoDB"
     };
 
-    public String getObjetivo() {
-        return "Integrarme en un equipo de desarrollo donde pueda aportar " +
-               "desde el primer día y seguir creciendo profesionalmente.";
+    String[] interests = {
+        "Backend development & clean architecture",
+        "Multiplatform mobile apps",
+        "Citrix virtualization & DevOps",
+        "Photography & creative design"
+    };
+
+    String getGoal() {
+        return "Join a development team where I can contribute from day one " +
+               "and keep growing as a professional.";
     }
 }
 ```
