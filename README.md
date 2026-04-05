@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Badges de contacto -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20José%20Bueno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjo-bueno-b99434346/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20José%20Bueno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjo-bueno-dev/)
 [![Email](https://img.shields.io/badge/Email-juanjobuenodev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanjobuenodev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JuanjoBuenoDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanjoBuenoDev)
 ![Location](https://img.shields.io/badge/📍_Granada-España-00B4D8?style=for-the-badge)
