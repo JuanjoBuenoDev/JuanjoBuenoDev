@@ -149,7 +149,6 @@ public class JuanjoBueno extends Developer {
 
 ## 🎯 Actualmente...
 
-- 🔭 Trabajando en proyectos personales con **Spring Boot + React**
 - 🌱 Aprendiendo más sobre **Docker**, **Kubernetes** y arquitecturas cloud
 - 💡 Explorando **Salesforce Development** (Apex, LWC)
 - 📚 Consolidando conocimientos en **patrones de diseño** y **clean architecture**
